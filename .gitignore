@@ -65,3 +65,6 @@ package-lock.json
 dist
 .turbo
 .yarn/cache
+yarn.lock
+backend/.env
+yarn.lock
